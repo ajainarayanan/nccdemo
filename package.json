@@ -1,0 +1,13 @@
+{
+  "name": "nccdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@zeit/ncc": "^0.4.1"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "finalhandler": "^1.1.1"
+  }
+}
